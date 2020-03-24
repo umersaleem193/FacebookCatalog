@@ -1,0 +1,3 @@
+id,title,description,google_product_category,product_type,link,condition,availability,price,brand,item_group_id,gender,shipping,custom_label_0
+DB_1,Dog Bowl In Blue,Solid plastic Dog Bowl in marine blue color,Animals > Pet Supplies,Bowls & Dining > Food & Water Bowls,http://www.example.com/bowls/db-1.html,new,out of stock,19.99 GBP,Example,DB_GROUP_1,,UK::Standard:9.95 GBP,"Made in Waterford, IE"
+DB_2,Dog Bowl In Yellow,Solid plastic Dog Bowl in yellow color,Animals > Pet Supplies,Bowls & Dining > Food & Water Bowls,http://www.example.com/bowls/db-2.html,new,in stock,9.99 GBP,Example,DB_GROUP_1,,UK::Standard:9.95 GBP,"Made in Waterford, IE"
